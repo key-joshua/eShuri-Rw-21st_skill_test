@@ -4,7 +4,7 @@
 
 #### This is the Hosted link of this app challenge [Access App Direct]
 
-https://innoloft-dashboard-frontend-challenge.netlify.app/
+https://key-joshua.github.io/eShuri-Rw-21st_skill_test/
 
 #### This is the Github repository link of the the challenge 
 
